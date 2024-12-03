@@ -27,9 +27,9 @@ author:
   location         : "Hong Kong, China"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=1p0oUzoAAAAJ"
   email            : "cszhengwu@comp.hkbu.edu.hk"
-  researchgate     : ""
+  researchgate     : 
   uri              : 
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
