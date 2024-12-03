@@ -43,7 +43,8 @@ My research interests includes:
 
 ## Honors and Awards
 
-* **Silver Medal**, ICPC EC-Final, 2022, 2023.
+* **Silver Medal**, ICPC EC-Final, 2023, 2024.
+* **Outstanding Graduate**, ZJNU, 2024.
 * **Zhejiang Province Government Studentship**, ZJNU, 2022, 2023.
 * **ICPC student coach**, ZJNU, 2022, 2023.
 
