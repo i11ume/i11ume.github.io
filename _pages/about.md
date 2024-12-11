@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first-year PhD candidate in the Department of Computer Science at Hong Kong Baptist University (HKBU) under the supervision of [**Dr. Xin Huang**](https://www.comp.hkbu.edu.hk/~xinhuang/index.html). I received my BEng degree in Software Engineering from Zhejiang Normal University (ZJNU) in 2024.
+I'm a first-year PhD student in the Department of Computer Science at Hong Kong Baptist University (HKBU) under the supervision of [**Dr. Xin Huang**](https://www.comp.hkbu.edu.hk/~xinhuang/index.html). I received my BEng degree in Software Engineering from Zhejiang Normal University (ZJNU) in 2024.
 
 <span class='anchor' id='-xl'></span>
 
