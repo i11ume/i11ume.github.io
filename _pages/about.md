@@ -34,8 +34,8 @@ My research interests includes:
 
 ## Publications
 
-* **Zheng Wu**, Xuliang Zhu, Yixiang Fang, Jianliang Xu, Xin Huang. "Interactive Graph Search for Multiple Targets on DAGs." *Proc. of the 51st International Conference on Very Large Data Bases (**PVLDB ’25**)*, London, United Kingdom, 2025, Full paper. 
-* Longxu Sun, Xin Huang, **Zheng Wu**, and Jianliang Xu. "*[Efficient Cross-layer Community Search in Large Multilayer Graphs](https://doi.org/10.1109/ICDE60146.2024.00230)*." *Proc. of the IEEE 40th International Conference on Data Engineering (**ICDE ’24**)*, Utrecht, Netherlands, pp. 2959–2971, 2024, Full paper. [[Slides\]](https://www.comp.hkbu.edu.hk/~cslxsun/icde24_mcs.pdf)
+* **Zheng Wu**, Xuliang Zhu, Yixiang Fang, Jianliang Xu, Xin Huang. "[Interactive Graph Search for Multiple Targets on DAGs](/files/Interactive_Graph_Search_for_Multiple_Targets_on_DAGs.pdf)." *Proc. of the 51st International Conference on Very Large Data Bases (**PVLDB '25**)*, London, United Kingdom, 2025, Full paper. 
+* Longxu Sun, Xin Huang, **Zheng Wu**, and Jianliang Xu. "*[Efficient Cross-layer Community Search in Large Multilayer Graphs](https://doi.org/10.1109/ICDE60146.2024.00230)*." *Proc. of the IEEE 40th International Conference on Data Engineering (**ICDE '24**)*, Utrecht, Netherlands, pp. 2959–2971, 2024, Full paper. [[Slides\]](https://www.comp.hkbu.edu.hk/~cslxsun/icde24_mcs.pdf)
 
 <span class='anchor' id='-xl'></span>
 
