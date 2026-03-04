@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a first-year PhD student in the Department of Computer Science at Hong Kong Baptist University (HKBU) under the supervision of [**Dr. Xin Huang**](https://www.comp.hkbu.edu.hk/~xinhuang/index.html). I received my BEng degree in Software Engineering from Zhejiang Normal University (ZJNU) in 2024.
+I'm a second-year PhD student in the Department of Computer Science at Hong Kong Baptist University (HKBU) under the supervision of [**Dr. Xin Huang**](https://www.comp.hkbu.edu.hk/~xinhuang/index.html). I received my BEng degree in Software Engineering from Zhejiang Normal University (ZJNU) in 2024.
 
 <span class='anchor' id='-xl'></span>
 
@@ -26,7 +26,7 @@ I'm a first-year PhD student in the Department of Computer Science at Hong Kong 
 ## Research Interests
 
 My research interests includes:
-- Graph algorithms
+- Vector data management, Graph algorithms
 
 <span class='anchor' id='-xl'></span>
 
@@ -34,6 +34,7 @@ My research interests includes:
 
 ## Publications
 
+* **Zheng Wu**, Yitong Song, Xuliang Zhu, Huiling Li, Jianliang Xu, Xin Huang. "*Balancing Global and Local: Representative Sampling for Large‑Scale Vector Data*." *ACM SIGMOD International Conference on Management of Data (**SIGMOD '26**)*, Bengaluru, India, 2026, Full paper. 
 * **Zheng Wu**, Xuliang Zhu, Yixiang Fang, Jianliang Xu, Xin Huang. "*[Interactive Graph Search for Multiple Targets on DAGs](https://www.vldb.org/pvldb/vol18/p1091-wu.pdf)*." *Proc. of the 51st International Conference on Very Large Data Bases (**PVLDB '25**)*, London, United Kingdom, 2025, Full paper. 
 * Longxu Sun, Xin Huang, **Zheng Wu**, and Jianliang Xu. "*[Efficient Cross-layer Community Search in Large Multilayer Graphs](https://doi.org/10.1109/ICDE60146.2024.00230)*." *Proc. of the IEEE 40th International Conference on Data Engineering (**ICDE '24**)*, Utrecht, Netherlands, pp. 2959–2971, 2024, Full paper. [[Slides\]](https://www.comp.hkbu.edu.hk/~cslxsun/icde24_mcs.pdf)
 
