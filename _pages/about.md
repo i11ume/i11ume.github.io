@@ -34,6 +34,7 @@ My research interests includes:
 
 ## Publications
 
+* Yuhan Zhou, **Zheng Wu**, Qing Liu, Xin Huang, Jianliang Xu, Yunjun Gao. "*To Learn or Not to Learn? An In-depth Empirical Analysis of Community Search Approaches: [Experiments & Analysis]*." *ACM SIGMOD International Conference on Management of Data (**SIGMOD ’27***), Huntington Beach, California, United States, 2027, Full paper. 
 * **Zheng Wu**, Yitong Song, Xuliang Zhu, Huiling Li, Jianliang Xu, Xin Huang. "*[Balancing Global and Local: Representative Sampling for Large‑Scale Vector Data](https://dl.acm.org/doi/pdf/10.1145/3802019)*." *ACM SIGMOD International Conference on Management of Data (**SIGMOD ’26**)*, Bengaluru, India, 2026, Full paper. 
 * **Zheng Wu**, Xuliang Zhu, Yixiang Fang, Jianliang Xu, Xin Huang. "*[Interactive Graph Search for Multiple Targets on DAGs](https://www.vldb.org/pvldb/vol18/p1091-wu.pdf)*." *Proc. of the 51st International Conference on Very Large Data Bases (**PVLDB ’25**)*, London, United Kingdom, 2025, Full paper. 
 * Longxu Sun, Xin Huang, **Zheng Wu**, and Jianliang Xu. "*[Efficient Cross-layer Community Search in Large Multilayer Graphs](https://doi.org/10.1109/ICDE60146.2024.00230)*." *Proc. of the IEEE 40th International Conference on Data Engineering (**ICDE ’24**)*, Utrecht, Netherlands, pp. 2959–2971, 2024, Full paper. [[Slides\]](https://www.comp.hkbu.edu.hk/~cslxsun/icde24_mcs.pdf)
